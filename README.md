@@ -9,18 +9,19 @@ Fuzzy search or search by folder for bookmark
 - Easy to copy url
 - Fast open url
 
-## Design
+## <span id="Design">Design</span>
 
-- List top level directory
+1、List top level directory
 
 ![List top level directory](design/top_list.png)
 
-- Fuzzy search
+<br/>
+2、Fuzzy search
 
 ![Fuzzy search](design/fuzzy_search.png)
 
-
-- Search by folder
+<br/>
+3、Search by folder
 
 ![Search by folder](design/search_by_folder.png)
 
