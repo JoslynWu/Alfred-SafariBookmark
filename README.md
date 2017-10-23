@@ -2,6 +2,8 @@
 
 Fuzzy search or search by folder for bookmark
 
+## [中文介绍](#chinese_introduction)
+
 ## Feature
 
 - Fuzzy search all bookmark
@@ -11,17 +13,19 @@ Fuzzy search or search by folder for bookmark
 
 ## <span id="Design">Design</span>
 
-1、List top level directory
+**1、List top level directory**
 
 ![List top level directory](design/top_list.png)
 
 <br/>
-2、Fuzzy search
+
+**2、Fuzzy search**
 
 ![Fuzzy search](design/fuzzy_search.png)
 
 <br/>
-3、Search by folder
+
+**3、Search by folder**
 
 ![Search by folder](design/search_by_folder.png)
 
@@ -59,7 +63,7 @@ Apache License 2.0
 
 ***********
 
-# 中文介绍
+# <span id="chinese_introduction">中文介绍
 
 模糊搜索或者按文件夹搜索书签
 
