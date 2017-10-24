@@ -2,7 +2,7 @@
 
 Fuzzy search or search by folder for bookmark
 
-## [中文介绍](#中文介绍)
+[**中文介绍**](#中文介绍)
 
 ## Feature
 
@@ -35,7 +35,7 @@ Fuzzy search or search by folder for bookmark
 
 ## Usage
 1. Download [.alfredworkflow](https://github.com/JoslynWu/Alfred-SafariBookmark/blob/master/Safari%20bookmark.alfredworkflow) file.
-2. Double click `Safari bookmark.alfredworkflow`. 
+2. Double click `SafariBookmark.alfredworkflow`. 
 3. Start-up Alfred and Input keyword(default <kbd>,</kbd>).
 4. Select a folder enter the next level.
 5. Select a bookmark open a web with Safari.
@@ -85,7 +85,7 @@ Apache License 2.0
 ## 使用说明
 
 1. 下载 [.alfredworkflow](https://github.com/JoslynWu/Alfred-SafariBookmark/blob/master/Safari%20bookmark.alfredworkflow) 文件。
-1. 双击 `Safari bookmark.alfredworkflow`文件。
+1. 双击 `SafariBookmark.alfredworkflow`文件。
 2. 启动Alfred，键入关键字（默认为<kbd>,</kbd>）。
 3. 点击文件夹进入下一级。
 4. 点击书签打开网页。
