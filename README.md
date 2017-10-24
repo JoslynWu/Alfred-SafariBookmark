@@ -2,7 +2,7 @@
 
 Fuzzy search or search by folder for bookmark
 
-## [中文介绍](#chinese_introduction)
+## [中文介绍](#中文介绍)
 
 ## Feature
 
@@ -11,7 +11,7 @@ Fuzzy search or search by folder for bookmark
 - Easy to copy url
 - Fast open url
 
-## <span id="Design">Design</span>
+## <span id="design">Design</span>
 
 **1、List top level directory**
 
@@ -36,7 +36,7 @@ Fuzzy search or search by folder for bookmark
 ## Usage
 1. Download [.alfredworkflow](https://github.com/JoslynWu/Alfred-SafariBookmark/blob/master/Safari%20bookmark.alfredworkflow) file.
 2. Double click `Safari bookmark.alfredworkflow`. 
-3. Start-up Alfred and Input keyword(default `,`).
+3. Start-up Alfred and Input keyword(default <kbd>,</kbd>).
 4. Select a folder enter the next level.
 5. Select a bookmark open a web with Safari.
 
@@ -44,15 +44,15 @@ Fuzzy search or search by folder for bookmark
 
 | **key** | **bookmark** | **folder** |
 |:--|:--|:--|
-| Enter | open url | enter folder |
-| ⌘ + Enter / ⌘ + C | copy url | - |
-| ⌘ + Y | quick look for url | - |
-| ⌘ + L | large text for url | large text for folder name |
-| Tab | - | enter folder |
+| <kbd>Enter</kbd> | open url | enter folder |
+| <kbd>⌘ + Enter</kbd> /<kbd>⌘ + C</kbd> | copy url | - |
+| <kbd>⌘ + Y</kbd> | quick look for url | - |
+| <kbd>⌘ + L</kbd> | large text for url | large text for folder name |
+| <kbd>Tab</kbd> | - | enter folder |
 
 ## Other
 
-1. When you fuzzy search, you should follow keyword with a space.
+1. When you fuzzy search, you should follow keyword(default <kbd>,</kbd>) with a space.
 2. When you want to search folder by keyboard, must start with `/`.
 3. Input `, workflow:update` to update this workflow, if have higher version.
 
@@ -63,7 +63,7 @@ Apache License 2.0
 
 ***********
 
-# <span id="chinese_introduction">中文介绍
+# <span id="中文介绍">中文介绍
 
 模糊搜索或者按文件夹搜索书签
 
@@ -76,7 +76,7 @@ Apache License 2.0
 
 ## 样图展示
 
-见 [Design](#Design)
+见 [Design](#design)
 
 ## 要求
 
@@ -86,7 +86,7 @@ Apache License 2.0
 
 1. 下载 [.alfredworkflow](https://github.com/JoslynWu/Alfred-SafariBookmark/blob/master/Safari%20bookmark.alfredworkflow) 文件。
 1. 双击 `Safari bookmark.alfredworkflow`文件。
-2. 启动Alfred，键入关键字（默认为`,`）。
+2. 启动Alfred，键入关键字（默认为<kbd>,</kbd>）。
 3. 点击文件夹进入下一级。
 4. 点击书签打开网页。
 
@@ -94,15 +94,15 @@ Apache License 2.0
 
 | **快捷键** | **书签** | **书签文件夹** |
 |:--|:--|:--|
-| Enter | 打开连接 | 进入下一级文件夹 |
-| ⌘ + Enter / ⌘ + C | 复制链接 | - |
-| ⌘ + Y | 快速预览页面 | - |
-| ⌘ + L | 放大显示链接 | 放大显示文件夹名 |
-| Tab | - | 补全文件夹名并进入下一级 |
+| <kbd>Enter</kbd> | 打开连接 | 进入下一级文件夹 |
+| <kbd>⌘ + Enter</kbd> /<kbd>⌘ + C</kbd> | 复制链接 | - |
+| <kbd>⌘ + Y</kbd> | 快速预览页面 | - |
+| <kbd>⌘ + L</kbd> | 放大显示链接 | 放大显示文件夹名 |
+| <kbd>Tab</kbd> | - | 补全文件夹名并进入下一级 |
 
 ## 其它
 
-1. 在使用模糊搜索时，需要在关键字（默认为`,`）后加一个空格。
+1. 在使用模糊搜索时，需要在关键字（默认为<kbd>,</kbd>）后加一个空格。
 2. 当需要搜索文件夹（仅支持同级文件夹）时，需要以`/`开头。
 3. 输入`, workflow:update`可以更新该workflow，如果有更高版本。
 
