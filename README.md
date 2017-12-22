@@ -1,6 +1,8 @@
 # Alfred-SafariBookmark
 
-Fuzzy search or search by folder for bookmark
+Fuzzy search or search by folder for bookmark, Support directory path view.
+
+模糊搜索或者按文件夹搜索书签，支持目录路径查看。
 
 [**中文介绍**](#中文介绍)
 
@@ -8,6 +10,7 @@ Fuzzy search or search by folder for bookmark
 
 - Fuzzy search all bookmark
 - bookmark search by folder
+- View the bookmark directory path
 - Easy to copy url
 - Fast open url
 
@@ -47,7 +50,7 @@ Fuzzy search or search by folder for bookmark
 | <kbd>Enter</kbd> | open url | enter folder |
 | <kbd>⌘ + Enter</kbd> /<kbd>⌘ + C</kbd> | copy url | - |
 | <kbd>⌘ + Y</kbd> | quick look for url | - |
-| <kbd>⌘ + L</kbd> | large text for url | large text for folder name |
+| <kbd>⌘ + L</kbd> | large text for path | large text for path |
 | <kbd>Tab</kbd> | - | enter folder |
 
 ## Other
@@ -65,12 +68,13 @@ Apache License 2.0
 
 # <span id="中文介绍">中文介绍
 
-模糊搜索或者按文件夹搜索书签
+模糊搜索或者按文件夹搜索书签，支持目录路径查看。
 
 ## 主要功能
 
 - 模糊搜索书签
 - 按文件夹搜索书签
+- 查看书签目录路径
 - 便捷复制链接
 - 快速打开链接
 
@@ -97,7 +101,7 @@ Apache License 2.0
 | <kbd>Enter</kbd> | 打开连接 | 进入下一级文件夹 |
 | <kbd>⌘ + Enter</kbd> /<kbd>⌘ + C</kbd> | 复制链接 | - |
 | <kbd>⌘ + Y</kbd> | 快速预览页面 | - |
-| <kbd>⌘ + L</kbd> | 放大显示链接 | 放大显示文件夹名 |
+| <kbd>⌘ + L</kbd> | 放大显示目录路劲 | 放大显示目录路劲|
 | <kbd>Tab</kbd> | - | 补全文件夹名并进入下一级 |
 
 ## 其它
